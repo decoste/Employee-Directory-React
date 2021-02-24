@@ -10,10 +10,10 @@ Link for the deployed site:
 ## Description
 This is a React Employee Directory App that allow the user to view their entire employee directory at once so that the user have quick access to the employee information.  The user will be able to filter by gender and first name, as well as the ability to sort employee by email, first, and last name in ascending order.
  
- 
+
 The following GIF demonstrates the application functionality:
 
-![Employee Directory](.public/assets/images/employee-dir.gif)
+![Employee Directory](./public/assets/images/employee-dir.gif)
 
 ## Installation
 No installation needed.  Only click on the following Herohu link:
