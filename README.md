@@ -13,7 +13,7 @@ This is a React Employee Directory App that allow the user to view their entire 
 
 The following GIF demonstrates the application functionality:
 
-![Employee Directory](./public/assets/images/employee-dir.gif)
+![Employee Directory](./client/public/assets/images/employee-dir.gif)
 
 ## Installation
 No installation needed.  Only click on the following Herohu link:
@@ -39,4 +39,4 @@ Please feel free to send me an email if you have any question(s) aladecoste@gmai
 
 Screenshot of the website:
 
-![one](./public/assets/images/screenShot.png)
+![one](./client/public/assets/images/screenShot.png)
