@@ -18,7 +18,7 @@ The following GIF demonstrates the application functionality:
 ## Installation
 No installation needed.  Only click on the following Herohu link:
 
-
+https://ala-employee-directory.herokuapp.com/
 
 
 ## Table of Contents
