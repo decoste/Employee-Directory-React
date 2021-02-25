@@ -5,7 +5,9 @@
 ## Title:
 Employee Directory
 
+
 Link for the deployed site: 
+https://ala-employee-directory.herokuapp.com/
 
 ## Description
 This is a React Employee Directory App that allow the user to view their entire employee directory at once so that the user have quick access to the employee information.  The user will be able to filter by gender and first name, as well as the ability to sort employee by email, first, and last name in ascending order.
